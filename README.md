@@ -1,0 +1,1 @@
+The goal of this project is to create a chat boxes where users can communicate with each other via text messages. Html,Css and JavaScript are used. Real-time connectivity and communication is achieved through the SignalR library, which uses Web Socketio.
